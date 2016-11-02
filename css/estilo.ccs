@@ -1,0 +1,21 @@
+
+
+h1{
+                color: chocolate;
+                text-align: center;
+                font-size: 3em;
+                text-transform: capitalize;
+                font-variant: small-caps;
+            }
+            
+            table{
+                width: 400px;
+                margin: auto;
+            }
+            
+            tr:nth-child(2n){background-color: beige;}
+
+a:link   
+{   
+ text-decoration:none;   
+}  
